@@ -21,3 +21,13 @@ To run this project, you need the following:
   - `Matplotlib`
   - `SciPy`
   - `Scikit-learn`
+ 
+---
+
+# Author Information
+
+**Name**: Shayan Dodge
+
+**Email**: dodgeshayan@gmail.com
+
+**Date**: 13/12/2024
