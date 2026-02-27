@@ -12,7 +12,7 @@ The objective of this notebook is to estimate the SAR at a given location within
   <img width="1083" height="446" alt="Model architecture overview"
        src="https://github.com/user-attachments/assets/01d48a37-6a1d-470d-b0a2-dfd91f2cf9a6" />
   <figcaption>
-    Figure 1. Proposed deep learning architecture for SAR hot-spot prediction.
+    Figure 1. Visualization of the predicted and true hotspot position on the body cross-sections.
   </figcaption>
 </figure>
 ---
