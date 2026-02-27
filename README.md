@@ -9,18 +9,9 @@ This notebook contains the source code for predicting the location of SAR (Speci
 The objective of this notebook is to estimate the SAR at a given location within an image where the hotspot is located, based on both the image data and associated frequency values. The deep learning model uses CNN to predict the SAR value at the identified hotspot location.
 
 ---
-
-## Requirements
-To run this project, you need the following:
-- **Python** 3.8 or above
-- Libraries:
-  - `TensorFlow` >= 2.10.0
-  - `Pandas`
-  - `Numpy`
-  - `Pillow`
-  - `Matplotlib`
-  - `SciPy`
-  - `Scikit-learn`
+### Requirements
+Python ≥ 3.8  
+TensorFlow ≥ 2.10, Pandas, NumPy, Pillow, Matplotlib, SciPy, Scikit-learn
  
 ---
 
