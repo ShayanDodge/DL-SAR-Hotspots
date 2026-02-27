@@ -29,14 +29,15 @@ To run this project, you need the following:
 The notebooks reproduce the results presented in the published article.
 
 ---
+## 📄 Published Article
 
-## 📄 Citation
-
-If you use this work, please cite:
+This repository contains the official implementation of the models presented in:
 
 Dodge, Shayan, et al.  
 "A Deep Learning Based Prediction of Specific Absorption Rate Hot‐Spots Induced by Broadband Electromagnetic Devices."  
-IET Science, Measurement & Technology, 2025.
+IET Science, Measurement & Technology, 19(1), 2025, e70009.
+
+🔗 Paper link: https://doi.org/XXXXXXXX
 
 ---
 # Author Information
