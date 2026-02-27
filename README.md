@@ -33,4 +33,4 @@ IET Science, Measurement & Technology, 19(1), 2025, e70009.
 ---
 # Author Information
 
-**Name**: Shayan Dodge, **Email**: dodgeshayan@gmail.com, **Date**: 13/12/2024
+**Shayan Dodge** (dodgeshayan@gmail.com)
