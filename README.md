@@ -8,6 +8,8 @@ This notebook contains the source code for predicting the location of SAR (Speci
 **2. Predicting the SAR Hotspot Value (`Hotspots_Value.ipynb`)**
 The objective of this notebook is to estimate the SAR at a given location within an image where the hotspot is located, based on both the image data and associated frequency values. The deep learning model uses CNN to predict the SAR value at the identified hotspot location.
 
+<img width="1083" height="446" alt="image" src="https://github.com/user-attachments/assets/01d48a37-6a1d-470d-b0a2-dfd91f2cf9a6" />
+
 ---
 ### Requirements
 Python ≥ 3.8  
