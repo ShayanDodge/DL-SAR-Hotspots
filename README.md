@@ -24,10 +24,23 @@ To run this project, you need the following:
  
 ---
 
+## 📂 Reproducibility
+
+The notebooks reproduce the results presented in the published article.
+
+---
+
+## 📄 Citation
+
+If you use this work, please cite:
+
+Dodge, Shayan, et al.  
+"A Deep Learning Based Prediction of Specific Absorption Rate Hot‐Spots Induced by Broadband Electromagnetic Devices."  
+IET Science, Measurement & Technology, 2025.
+
+---
 # Author Information
 
 **Name**: Shayan Dodge
-
 **Email**: dodgeshayan@gmail.com
-
 **Date**: 13/12/2024
