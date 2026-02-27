@@ -24,7 +24,15 @@ The notebooks reproduce the results presented in the published [article](https:/
 
 This repository contains the official implementation of the models presented in:
 
-Dodge, Shayan, Nunzia Fontana, Maria Evelina Mognaschi, Eliana Canicattì, and Sami Barmada. "A Deep Learning Based Prediction of Specific Absorption Rate Hot‐Spots Induced by Broadband Electromagnetic Devices." IET Science, Measurement & Technology 19, no. 1 (2025): e70009.
+@article{dodge2025sar,
+  title   = {A Deep Learning Based Prediction of Specific Absorption Rate Hot-Spots Induced by Broadband Electromagnetic Devices},
+  author  = {Dodge, Shayan and Fontana, Nunzia and Mognaschi, Maria Evelina and Canicatt{\`i}, Eliana and Barmada, Sami},
+  journal = {IET Science, Measurement \& Technology},
+  volume  = {19},
+  number  = {1},
+  year    = {2025},
+  pages   = {e70009}
+}
 
 🔗 Paper link: [https://doi.org/10.1094](https://doi.org/10.1049/smt2.70009)
 
