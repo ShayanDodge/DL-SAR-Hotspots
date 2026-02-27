@@ -39,6 +39,6 @@ If you use this work, please cite:
 🔗 Paper link: [https://doi.org/10.1094](https://doi.org/10.1049/smt2.70009)
 
 ---
-# Author Information
+## Author Information
 
 **Shayan Dodge** (dodgeshayan@gmail.com)
