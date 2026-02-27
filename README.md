@@ -17,7 +17,7 @@ TensorFlow ≥ 2.10, Pandas, NumPy, Pillow, Matplotlib, SciPy, Scikit-learn
 
 ## 📂 Reproducibility
 
-The notebooks reproduce the results presented in the published article.
+The notebooks reproduce the results presented in the published [article](https://doi.org/10.1049/smt2.70009).
 
 ---
 ## 📄 Published Article
@@ -33,6 +33,4 @@ IET Science, Measurement & Technology, 19(1), 2025, e70009.
 ---
 # Author Information
 
-**Name**: Shayan Dodge
-**Email**: dodgeshayan@gmail.com
-**Date**: 13/12/2024
+**Name**: Shayan Dodge, **Email**: dodgeshayan@gmail.com, **Date**: 13/12/2024
